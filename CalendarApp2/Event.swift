@@ -17,7 +17,7 @@ class Event{
         self.date = date
         
         if name.isEmpty || date.isEmpty{
-            return nil
+            return nil 
         }
     }
 }
